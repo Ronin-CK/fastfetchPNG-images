@@ -1,4 +1,4 @@
-# fastfetchPNG-images 🎌
+# fastfetchPNG-images
 
 Anime image pack for [fastfetch-PNG](https://github.com/Ronin-CK/fastfetch-PNG).
 
